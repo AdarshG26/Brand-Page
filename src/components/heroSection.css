@@ -1,0 +1,50 @@
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 19rem 0rem 19rem;
+    
+}
+.hero-content{
+    justify-content: center;
+}
+.hero-content h1{
+    margin-top: 1rem;
+    font-size: 5rem;
+    font-weight: 800;
+    justify-items: center;
+    line-height: 4.5rem;
+}
+.hero-content p{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.hero-btns{
+    margin-top: 4rem;
+}
+.hero-btns button{
+    border: 1px solid;
+    font-size: 1rem;
+    margin: 1rem;
+    height: 2.5rem;
+    width: 6rem;
+}
+.hero-btns .shop-btn{
+    background-color: rgb(216, 0, 0);
+    color: white;
+}
+.hero-btns .cat-btn{
+    background-color: transparent;
+    border: 3px solid rgb(101, 101, 101);
+}
+.shop-on .shop-icons{
+    display: flex;
+    height: 3.5rem;
+}
+
+.hero-img img{
+    height: 35rem;
+    border-radius: 50px;
+}
